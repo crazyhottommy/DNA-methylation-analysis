@@ -7,3 +7,6 @@
 * [bioconductor MEAL](http://bioconductor.org/packages/devel/bioc/vignettes/MEAL/inst/doc/MEAL.html) MEAL aims to facilitate the analysis of Illumina Methylation 450K chips   
 * [an R package for normalization of DNA methylation data when there are multiple cell or tissue types.](https://github.com/GreenwoodLab/funtooNorm)
 * [normalize450K bioconductor](http://bioconductor.org/packages/devel/bioc/html/normalize450K.html)
+
+### Whole genome BS-seq
+* [MethGo: a comprehensive tool for analyzing whole-genome bisulfite sequencing data](http://paoyangchen-laboratory.github.io/methgo/)  
