@@ -11,4 +11,7 @@
 ### Whole genome BS-seq
 * [MethGo: a comprehensive tool for analyzing whole-genome bisulfite sequencing data](http://paoyangchen-laboratory.github.io/methgo/) 
 * [bismark-pipeline.pdf](https://github.com/crazyhottommy/DNA-methylation-analysis/files/92245/bismark-pipeline.pdf)
+* [Post-Processing Bismark Bisulphite Sequencing Data](http://blog.mcbryan.co.uk/2013/02/post-processing-bismark-bisulphite.html)  
+* [The Binomial Distribution, Python and Bisulphite Sequencing](http://blog.mcbryan.co.uk/2013/02/the-binomial-distribution-python-and.html) 
+
 
