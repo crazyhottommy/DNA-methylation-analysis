@@ -9,4 +9,6 @@
 * [normalize450K bioconductor](http://bioconductor.org/packages/devel/bioc/html/normalize450K.html)
 
 ### Whole genome BS-seq
-* [MethGo: a comprehensive tool for analyzing whole-genome bisulfite sequencing data](http://paoyangchen-laboratory.github.io/methgo/)  
+* [MethGo: a comprehensive tool for analyzing whole-genome bisulfite sequencing data](http://paoyangchen-laboratory.github.io/methgo/) 
+* ([bismark-pipeline.pdf](https://github.com/crazyhottommy/DNA-methylation-analysis/files/92245/bismark-pipeline.pdf)
+
