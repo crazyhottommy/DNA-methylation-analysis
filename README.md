@@ -14,4 +14,5 @@
 * [Post-Processing Bismark Bisulphite Sequencing Data](http://blog.mcbryan.co.uk/2013/02/post-processing-bismark-bisulphite.html)  
 * [The Binomial Distribution, Python and Bisulphite Sequencing](http://blog.mcbryan.co.uk/2013/02/the-binomial-distribution-python-and.html) 
 
-
+### Clustering
+* [Clustering of (epigenetic) DNA methylation data using a variational Bayes NMF algorithm:EpiCluster bioconductor ](http://bioconductor.org/packages/devel/bioc/html/EpiCluster.html)
