@@ -1,5 +1,9 @@
 # DNA-methylation-analysis
 
+
+### papers
+*[MINI REVIEW: Statistical methods for detecting differentially methylated loci and regions](http://biorxiv.org/content/biorxiv/early/2014/07/15/007120.full.pdf)
+
 **Illumina is phasing out 450k and introducing the new 850k as in the end of 2015**
 ### 450k array analysis
 * [bioconductor missMethyl](https://www.bioconductor.org/packages/release/bioc/html/missMethyl.html)  
@@ -7,6 +11,13 @@
 * [bioconductor MEAL](http://bioconductor.org/packages/devel/bioc/vignettes/MEAL/inst/doc/MEAL.html) MEAL aims to facilitate the analysis of Illumina Methylation 450K chips   
 * [an R package for normalization of DNA methylation data when there are multiple cell or tissue types.](https://github.com/GreenwoodLab/funtooNorm)
 * [normalize450K bioconductor](http://bioconductor.org/packages/devel/bioc/html/normalize450K.html)
+
+### RRBS
+* [M3D: Statistical Testing for RRBS Data Sets](https://www.bioconductor.org/packages/release/bioc/vignettes/M3D/inst/doc/M3D_vignette.pdf)  
+
+* [methylkit](https://github.com/al2na/methylKit) deals with RRBS  data.
+
+* [BiSeq](https://www.bioconductor.org/packages/release/bioc/html/BiSeq.html) RRBS centric.
 
 ### Whole genome BS-seq
 * [MethGo: a comprehensive tool for analyzing whole-genome bisulfite sequencing data](http://paoyangchen-laboratory.github.io/methgo/) 
