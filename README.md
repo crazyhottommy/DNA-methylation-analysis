@@ -16,7 +16,7 @@
 ### RRBS
 * [M3D: Statistical Testing for RRBS Data Sets](https://www.bioconductor.org/packages/release/bioc/vignettes/M3D/inst/doc/M3D_vignette.pdf)  
 
-* [methylkit](https://github.com/al2na/methylKit) deals with RRBS  data.
+* [methylkit](https://github.com/al2na/methylKit) deals with RRBS and other data. A recent release [note](http://zvfak.blogspot.com/2016/06/methylkit-v096.html). Many new features are implemented including [segmentation](http://zvfak.blogspot.de/2015/06/segmentation-of-methylation-profiles.html) of DNA methylation data similar to CNV analysis.
 
 * [BiSeq](https://www.bioconductor.org/packages/release/bioc/html/BiSeq.html) RRBS centric.
 
