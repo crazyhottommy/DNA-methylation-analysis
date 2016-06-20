@@ -26,5 +26,10 @@
 * [Post-Processing Bismark Bisulphite Sequencing Data](http://blog.mcbryan.co.uk/2013/02/post-processing-bismark-bisulphite.html)  
 * [The Binomial Distribution, Python and Bisulphite Sequencing](http://blog.mcbryan.co.uk/2013/02/the-binomial-distribution-python-and.html) 
 
+### Nanopore
+* [Detecting DNA Methylation using the Oxford Nanopore Technologies MinION sequencer](http://biorxiv.org/content/early/2016/04/04/047142)
+* [Cytosine Variant Calling with High-throughput Nanopore Sequencing](http://biorxiv.org/content/early/2016/04/04/047134)
+
+
 ### Clustering
 * [Clustering of (epigenetic) DNA methylation data using a variational Bayes NMF algorithm:EpiCluster bioconductor ](http://bioconductor.org/packages/devel/bioc/html/EpiCluster.html)
