@@ -5,13 +5,14 @@
 * [MINI REVIEW: Statistical methods for detecting differentially methylated loci and regions](http://biorxiv.org/content/biorxiv/early/2014/07/15/007120.full.pdf)
 
 **Illumina is phasing out 450k and introducing the new 850k as in the end of 2015**
-### 450k array analysis
+### 450k/850k array analysis
 * [bioconductor missMethyl](https://www.bioconductor.org/packages/release/bioc/html/missMethyl.html)  
 * [450k-analysis-guide](https://github.com/crazyhottommy/450k-analysis-guide) A bit dated, but still useful.
 * [bioconductor MEAL](http://bioconductor.org/packages/devel/bioc/vignettes/MEAL/inst/doc/MEAL.html) MEAL aims to facilitate the analysis of Illumina Methylation 450K chips   
 * [an R package for normalization of DNA methylation data when there are multiple cell or tissue types.](https://github.com/GreenwoodLab/funtooNorm)
 * [normalize450K bioconductor](http://bioconductor.org/packages/devel/bioc/html/normalize450K.html)
 * [A cross-package Bioconductor workflow for analysing methylation array data](http://f1000research.com/articles/5-1281/v1). F1000 research paper.
+* [paper: Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array](http://biorxiv.org/content/early/2016/07/23/065490) minif package extended to 850k.
 
 ### RRBS
 * [M3D: Statistical Testing for RRBS Data Sets](https://www.bioconductor.org/packages/release/bioc/vignettes/M3D/inst/doc/M3D_vignette.pdf)  
