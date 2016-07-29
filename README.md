@@ -13,6 +13,14 @@
 * [normalize450K bioconductor](http://bioconductor.org/packages/devel/bioc/html/normalize450K.html)
 * [A cross-package Bioconductor workflow for analysing methylation array data](http://f1000research.com/articles/5-1281/v1). F1000 research paper.
 * [paper: Preprocessing, normalization and integration of the Illumina HumanMethylationEPIC array](http://biorxiv.org/content/early/2016/07/23/065490) minif package extended to 850k.
+* [paper:Comparison of Beta-value and M-value methods for quantifying methylation levels by microarray analysis](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-587)  
+
+>The Beta-value method has a direct biological interpretation - it corresponds roughly to the percentage of a site that is methylated. This makes the Beta-value very attractive when modeling the underlying biological effect. However, this interpretation is an approximation [22], especially when the data has not been properly preprocessed and normalized. From an analytical and statistical standpoint, the Beta-value method has severe heteroscedasticity outside the middle methylation range, which imposes serious challenges in applying many statistic models. In comparison, the M-value method is more statistically valid in differential and other statistic analysis as it is approximately homoscedastic. Although the M-value statistic does not have an intuitive biological meaning, it is possible to provide an accurate estimation of methylation status by modeling the distribution of the M-value statistic. In differential methylation analysis, we recommend using M-value because we can directly apply most statistical analysis methods designed for expression microarrays and it is easy to implement a difference threshold adjustment to improve the TPR. And the difference of M-value can be interpreted as the fold-change in the non-log scale. Although both Beta-value and M-value methods have some limitations, the two statistics are inter-convertible using Equation 3, enabling the use of the most appropriate method. We recommend using the M-value method for differential methylation analysis and also including the Beta-value statistic in final reports due to its intuitive biological interpretation.
+
+* [Comparison of clustering methods for investigation of genome-wide methylation array data](http://journal.frontiersin.org/article/10.3389/fgene.2011.00088/full)
+
+>The results of simulations suggest that the hierarchical Ward–Manhattan approach provides a consistent approach and that the Manhattan distance appears to be the best metric to separate clusters based on beta-values. However, this result is not absolute with some conditions particularly under low decisive data conditions resulting in inconsistency.
+
 
 ### RRBS
 * [M3D: Statistical Testing for RRBS Data Sets](https://www.bioconductor.org/packages/release/bioc/vignettes/M3D/inst/doc/M3D_vignette.pdf)  
