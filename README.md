@@ -3,6 +3,7 @@
 
 ### papers
 * [MINI REVIEW: Statistical methods for detecting differentially methylated loci and regions](http://biorxiv.org/content/biorxiv/early/2014/07/15/007120.full.pdf)
+* [Tumor purity and differential methylation in cancer epigenomics](http://bfg.oxfordjournals.org/content/early/2016/05/18/bfgp.elw016.long)
 
 **Illumina is phasing out 450k and introducing the new 850k as in the end of 2015**
 ### 450k/850k array analysis
@@ -42,3 +43,5 @@
 
 ### Clustering
 * [Clustering of (epigenetic) DNA methylation data using a variational Bayes NMF algorithm:EpiCluster bioconductor ](http://bioconductor.org/packages/devel/bioc/html/EpiCluster.html)
+* [densityCut: an efficient and versatile topological approach for automatic clustering of biological data](http://m.bioinformatics.oxfordjournals.org/content/early/2016/04/23/bioinformatics.btw227.short?rss=1)
+
