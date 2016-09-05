@@ -40,6 +40,9 @@
 * [Detecting DNA Methylation using the Oxford Nanopore Technologies MinION sequencer](http://biorxiv.org/content/early/2016/04/04/047142)
 * [Cytosine Variant Calling with High-throughput Nanopore Sequencing](http://biorxiv.org/content/early/2016/04/04/047134)
 
+### Batch effect
+
+* [BEclear](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0159921): Batch Effect Detection and Adjustment in DNA Methylation Data
 
 ### Clustering
 * [Clustering of (epigenetic) DNA methylation data using a variational Bayes NMF algorithm:EpiCluster bioconductor ](http://bioconductor.org/packages/devel/bioc/html/EpiCluster.html)
