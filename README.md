@@ -48,3 +48,6 @@
 * [Clustering of (epigenetic) DNA methylation data using a variational Bayes NMF algorithm:EpiCluster bioconductor ](http://bioconductor.org/packages/devel/bioc/html/EpiCluster.html)
 * [densityCut: an efficient and versatile topological approach for automatic clustering of biological data](http://m.bioinformatics.oxfordjournals.org/content/early/2016/04/23/bioinformatics.btw227.short?rss=1)
 
+### Motifs 
+* [Discovering DNA motifs and genomic variants associated with DNA methylation](http://biorxiv.org/content/early/2016/09/06/073809)
+
