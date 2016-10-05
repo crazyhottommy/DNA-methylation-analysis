@@ -10,6 +10,7 @@
 * [bioconductor missMethyl](https://www.bioconductor.org/packages/release/bioc/html/missMethyl.html)  
 * [450k-analysis-guide](https://github.com/crazyhottommy/450k-analysis-guide) A bit dated, but still useful.
 * [450k with minif bioc workflow](https://www.bioconductor.org/help/course-materials/2015/BioC2015/methylation450k.html)
+* [bigmelon](http://bioconductor.org/packages/devel/bioc/html/bigmelon.html) bioc package. Illumina methylation array analysis for large experiments
 * [bioconductor MEAL](http://bioconductor.org/packages/devel/bioc/vignettes/MEAL/inst/doc/MEAL.html) MEAL aims to facilitate the analysis of Illumina Methylation 450K chips   
 * [an R package for normalization of DNA methylation data when there are multiple cell or tissue types.](https://github.com/GreenwoodLab/funtooNorm)
 * [normalize450K bioconductor](http://bioconductor.org/packages/devel/bioc/html/normalize450K.html)
