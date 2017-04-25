@@ -27,6 +27,7 @@
 
 >The results of simulations suggest that the hierarchical Ward–Manhattan approach provides a consistent approach and that the Manhattan distance appears to be the best metric to separate clusters based on beta-values. However, this result is not absolute with some conditions particularly under low decisive data conditions resulting in inconsistency.
 
+* [Estimating and accounting for tumor purity in the analysis of DNA methylation data from cancer studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-1143-5) [InfiniumPurify V1.1](https://zenodo.org/record/200214#.WP6xg7YrKuU)
 
 ### RRBS
 * [M3D: Statistical Testing for RRBS Data Sets](https://www.bioconductor.org/packages/release/bioc/vignettes/M3D/inst/doc/M3D_vignette.pdf)  
