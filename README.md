@@ -4,7 +4,8 @@
 ### papers
 * [MINI REVIEW: Statistical methods for detecting differentially methylated loci and regions](http://biorxiv.org/content/biorxiv/early/2014/07/15/007120.full.pdf)
 * [Tumor purity and differential methylation in cancer epigenomics](http://bfg.oxfordjournals.org/content/early/2016/05/18/bfgp.elw016.long)
-* [Strategies for analyzing bisulfite sequencing data](http://www.biorxiv.org/content/early/2017/02/17/109512)
+* [Strategies for analyzing bisulfite sequencing data](http://www.biorxiv.org/content/early/2017/02/17/109512) now published in  http://www.sciencedirect.com/science/article/pii/S0168165617315936?via%3Dihub
+
 
 **Illumina is phasing out 450k and introducing the new 850k as in the end of 2015**
 ### 450k/850k array analysis
