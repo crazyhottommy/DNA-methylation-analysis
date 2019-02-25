@@ -59,3 +59,16 @@
 ### Motifs 
 * [Discovering DNA motifs and genomic variants associated with DNA methylation](http://biorxiv.org/content/early/2016/09/06/073809)
 
+### Databases
+* [MethHC: a database of DNA methylation and gene expression in human cancers](http://methhc.mbc.nctu.edu.tw/php/index.php)
+* [MethyCancer: a database of DNA Methylation and Cancer](http://methycancer.psych.ac.cn/)
+* [MethDB: DNA methylation and environmental epigenetic effects](http://www.methdb.net/)
+* [MethylomeDB: The Brain Methylome Database provides DNA methylation profiles from humans and mice](https://epigenie.com/epigenetic-tools-and-databases/)
+* [DiseaseMeth: Methylomes of human disease](https://epigenie.com/epigenetic-tools-and-databases/)
+* [NGSmethDB: Whole-genome bisulfite sequencing (WGBS) database for many different tissues, pathological conditions, and species](https://epigenie.com/epigenetic-tools-and-databases/)
+* [MethBase: Hundreds of methylomes from well studied organisms](https://epigenie.com/epigenetic-tools-and-databases/)
+
+### Visualization
+* [TCGA Wanderer: an interactive viewer to explore DNA methylation and gene expression data in human cancer](http://maplab.imppc.org/wanderer/)
+* [MEXPRESS: a data visualization tool designed for the easy visualization of TCGA expression, DNA methylation and clinical data](https://mexpress.be/about)
+
